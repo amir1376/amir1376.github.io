@@ -1,0 +1,292 @@
+{
+  "languageSkills": [
+    {
+      "name": {
+        "en": "Persian",
+        "fa": "فارسی"
+      },
+      "native": true,
+      "percent": 100
+    },
+    {
+      "name": {
+        "en": "English",
+        "fa": "انگلیسی"
+      },
+      "native": false,
+      "percent": 45
+    }
+  ],
+  "contactDetails": [
+    {
+      "name": {
+        "en": "telegram",
+        "fa": "تلگرام"
+      },
+      "value": "@Amir_Ai",
+      "href": "https://t.me/amir_ai",
+      "iconify": "ic:baseline-telegram"
+    },
+    {
+      "name": {
+        "en": "Github",
+        "fa": "Github"
+      },
+      "value": "amir1376",
+      "href": "https://github.com/amir1376",
+      "iconify": "cib:github"
+    },
+    {
+      "name": {
+        "en": "Phone",
+        "fa": "تلفن"
+      },
+      "value": "+989352902221",
+      "href": "tel:+989352902221",
+      "iconify": "fluent:call-16-filled"
+    },
+    {
+      "name": {
+        "en": "Email",
+        "fa": "ایمیل"
+      },
+      "value": "amir.a1376@gmail.com",
+      "href": "mailto:amir.a1376@gmail.com",
+      "iconify": "entypo:email"
+    }
+  ],
+  "technicalSkills": [
+    {
+      "name": "Docker",
+      "iconify": "vscode-icons:file-type-docker",
+      "tags": [
+        "tools"
+      ],
+      "percent": 30,
+      "description": {
+        "en": "",
+        "fa": ""
+      }
+    },
+    {
+      "name": "SCSS",
+      "iconify": "vscode-icons:file-type-scss2",
+      "tags": [
+        "front-end"
+      ],
+      "percent": 50,
+      "description": {
+        "en": "",
+        "fa": ""
+      }
+    },
+    {
+      "name": "TailwindCSS",
+      "iconify": "vscode-icons:file-type-tailwind",
+      "tags": [
+        "front-end",
+        "framework"
+      ],
+      "percent": 80,
+      "description": {
+        "en": "",
+        "fa": ""
+      }
+    },
+    {
+      "name": "Bootstrap",
+      "iconify": "logos:bootstrap",
+      "tags": [
+        "front-end",
+        "framework"
+      ],
+      "percent": 50,
+      "description": {
+        "en": "",
+        "fa": ""
+      }
+    },
+    {
+      "name": "JavaScript",
+      "iconify": "vscode-icons:file-type-js-official",
+      "tags": [
+        "language",
+        "front-end"
+      ],
+      "percent": 60,
+      "description": {
+        "en": "",
+        "fa": ""
+      }
+    },
+    {
+      "name": "TypeScript",
+      "iconify": "vscode-icons:file-type-typescript-official",
+      "tags": [
+        "language",
+        "front-end"
+      ],
+      "percent": 60,
+      "description": {
+        "en": "",
+        "fa": ""
+      }
+    },
+    {
+      "name": "HTML",
+      "iconify": "vscode-icons:file-type-html",
+      "tags": [
+        "front-end"
+      ],
+      "percent": 80,
+      "description": {
+        "en": "",
+        "fa": ""
+      }
+    },
+    {
+      "name": "Compose",
+      "iconify": "simple-icons:jetpackcompose",
+      "tags": [
+        "android",
+        "framework"
+      ],
+      "percent": 75,
+      "description": {
+        "en": "",
+        "fa": ""
+      }
+    },
+    {
+      "name": "Vue JS",
+      "iconify": "vscode-icons:file-type-vue",
+      "tags": [
+        "front-end",
+        "framework"
+      ],
+      "percent": 55,
+      "description": {
+        "en": "",
+        "fa": ""
+      }
+    },
+    {
+      "name": "CSS",
+      "iconify": "vscode-icons:file-type-css",
+      "tags": [
+        "front-end"
+      ],
+      "percent": 55,
+      "description": {
+        "en": "",
+        "fa": ""
+      }
+    },
+    {
+      "name": "Git",
+      "iconify": "logos:git-icon",
+      "tags": [
+        "tools"
+      ],
+      "percent": 55,
+      "description": {
+        "en": "",
+        "fa": ""
+      }
+    },
+    {
+      "name": "Kotlin",
+      "iconify": "vscode-icons:file-type-kotlin",
+      "tags": [
+        "language",
+        "android"
+      ],
+      "percent": 90,
+      "description": {
+        "en": "",
+        "fa": ""
+      }
+    },
+    {
+      "name": "PHP",
+      "iconify": "vscode-icons:file-type-php2",
+      "tags": [
+        "language",
+        "back-end"
+      ],
+      "percent": 70,
+      "description": {
+        "en": "",
+        "fa": ""
+      }
+    },
+    {
+      "name": "Laravel",
+      "iconify": "vscode-icons:file-type-blade",
+      "tags": [
+        "framework",
+        "back-end"
+      ],
+      "percent": 50,
+      "description": {
+        "en": "",
+        "fa": ""
+      }
+    },
+    {
+      "name": "Java",
+      "iconify": "logos:java",
+      "tags": [
+        "language",
+        "android"
+      ],
+      "percent": 85,
+      "description": {
+        "en": "",
+        "fa": ""
+      }
+    },
+    {
+      "name": "SQL",
+      "iconify": "vscode-icons:file-type-sql",
+      "tags": [
+        "android",
+        "web"
+      ],
+      "percent": 45,
+      "description": {
+        "en": "",
+        "fa": ""
+      }
+    }
+  ],
+  "personalInfo": {
+    "location": {
+      "en": "Iran",
+      "fa": "ایران"
+    },
+    "education": {
+      "en": "Computer Engineering",
+      "fa": "مهندسی کامپیوتر"
+    },
+    "image": "https://avatars.githubusercontent.com/u/38394888?v=4",
+    "firstname": {
+      "en": "AmirHossein",
+      "fa": "امیرحسین"
+    },
+    "lastname": {
+      "en": "Abdolmotallebi",
+      "fa": "عبدالمطلبی"
+    },
+    "birthDay": "1998-1-17",
+    "experienceStarts": "2017-1-1",
+    "job": {
+      "en": "Software developer",
+      "fa": "برنامه نویس"
+    },
+    "description": {
+      "en": "I am android and web developer since 5 years ago, I love to learn new things and trying to enjoy what I have",
+      "fa": "حدود 5 سالیه که برنامه نویس اندروید و وب هستم به یادگیری چیزای جدید علاقه دارم و سعی میکنم از چیزایی که دارم لذت ببرم"
+    }
+  }
+}
