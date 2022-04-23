@@ -126,7 +126,7 @@
         "language",
         "front-end"
       ],
-      "percent": 60,
+      "percent": 55,
       "description": {
         "en": "",
         "fa": ""
@@ -164,7 +164,7 @@
         "front-end",
         "framework"
       ],
-      "percent": 55,
+      "percent": 50,
       "description": {
         "en": "",
         "fa": ""
@@ -214,7 +214,7 @@
         "language",
         "back-end"
       ],
-      "percent": 70,
+      "percent": 75,
       "description": {
         "en": "",
         "fa": ""
@@ -285,8 +285,8 @@
       "fa": "برنامه نویس"
     },
     "description": {
-      "en": "I am android and web developer since 5 years ago, I love to learn new things and trying to enjoy what I have",
-      "fa": "حدود 5 سالیه که برنامه نویس اندروید و وب هستم به یادگیری چیزای جدید علاقه دارم و سعی میکنم از چیزایی که دارم لذت ببرم"
+      "en": "I am android and web developer since 5 years ago, I love to learn new things and trying to enjoy what I have.",
+      "fa": ".حدود 5 سالیه که برنامه نویس اندروید و وب هستم به یادگیری چیزای جدید علاقه دارم و سعی میکنم از چیزایی که دارم لذت ببرم"
     }
   }
 }
