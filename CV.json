@@ -251,7 +251,7 @@
       "iconify": "vscode-icons:file-type-sql",
       "tags": [
         "android",
-        "web"
+        "back-end"
       ],
       "percent": 45,
       "description": {
@@ -286,7 +286,7 @@
     },
     "description": {
       "en": "I am android and web developer since 5 years ago, I love to learn new things and trying to enjoy what I have.",
-      "fa": ".حدود 5 سالیه که برنامه نویس اندروید و وب هستم به یادگیری چیزای جدید علاقه دارم و سعی میکنم از چیزایی که دارم لذت ببرم"
+      "fa": "حدود 5 سالیه که برنامه نویس اندروید و وب هستم به یادگیری چیزای جدید علاقه دارم و سعی میکنم از چیزایی که دارم لذت ببرم."
     }
   }
 }
