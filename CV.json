@@ -30,11 +30,20 @@
     {
       "name": {
         "en": "Github",
-        "fa": "Github"
+        "fa": "گیتهاب"
       },
       "value": "amir1376",
       "href": "https://github.com/amir1376",
       "iconify": "cib:github"
+    },
+    {
+      "name": {
+        "en": "Instagram",
+        "fa": "اینستاگرام"
+      },
+      "value": "amir_ai76",
+      "href": "https://www.instagram.com/amir_ai76",
+      "iconify": "ant-design:instagram-outlined"
     },
     {
       "name": {
