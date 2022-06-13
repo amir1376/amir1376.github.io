@@ -167,6 +167,18 @@
       }
     },
     {
+      "name": "React JS",
+      "iconify": "vscode-icons:file-type-react",
+      "tags": [
+        "front-end",
+      ],
+      "percent": 55,
+      "description": {
+        "en": "",
+        "fa": ""
+      }
+    },
+    {
       "name": "Vue JS",
       "iconify": "vscode-icons:file-type-vue",
       "tags": [
