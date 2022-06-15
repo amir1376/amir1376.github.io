@@ -170,7 +170,7 @@
       "name": "React JS",
       "iconify": "vscode-icons:file-type-react",
       "tags": [
-        "front-end",
+        "front-end"
       ],
       "percent": 55,
       "description": {
