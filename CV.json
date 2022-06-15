@@ -168,7 +168,7 @@
     },
     {
       "name": "React JS",
-      "iconify": "vscode-icons:file-type-react",
+      "iconify": "vscode-icons:file-type-reactjs",
       "tags": [
         "front-end"
       ],
