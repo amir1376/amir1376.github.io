@@ -103,19 +103,6 @@
       }
     },
     {
-      "name": "Bootstrap",
-      "iconify": "logos:bootstrap",
-      "tags": [
-        "front-end",
-        "framework"
-      ],
-      "percent": 50,
-      "description": {
-        "en": "",
-        "fa": ""
-      }
-    },
-    {
       "name": "JavaScript",
       "iconify": "vscode-icons:file-type-js-official",
       "tags": [
@@ -135,7 +122,7 @@
         "language",
         "front-end"
       ],
-      "percent": 55,
+      "percent": 65,
       "description": {
         "en": "",
         "fa": ""
@@ -160,7 +147,7 @@
         "android",
         "framework"
       ],
-      "percent": 75,
+      "percent": 80,
       "description": {
         "en": "",
         "fa": ""
@@ -172,7 +159,7 @@
       "tags": [
         "front-end"
       ],
-      "percent": 55,
+      "percent": 80,
       "description": {
         "en": "",
         "fa": ""
@@ -222,7 +209,7 @@
         "language",
         "android"
       ],
-      "percent": 90,
+      "percent": 100,
       "description": {
         "en": "",
         "fa": ""
@@ -261,7 +248,7 @@
         "language",
         "android"
       ],
-      "percent": 85,
+      "percent": 90,
       "description": {
         "en": "",
         "fa": ""
