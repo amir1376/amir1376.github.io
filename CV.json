@@ -263,8 +263,8 @@
           "en": "A modern library for front-end development"
         },
         "description": {
-          "fa":"یکی از قوی ترین لایبرری های فرانت اند .من ری اکت رو توی 3 روز یاد گرفتم, خیلی شبیه جتپک کامپوز هست. هر دو تا فوق العاده هستن",
-          "en": "One of must powerful front-end framework ,I learned React in 3 days, because it is very similar to Jetpack Compose. Both are wonderful"
+          "fa":"یکی از قوی ترین لایبرری های فرانت اند هست. خیلی شبیه جتپک کامپوز هست.",
+          "en": "One of must powerful front-end framework , because it is very similar to Jetpack Compose. Both are wonderful"
         },
         "externalLinks": [
           {"href":"https://react.dev/"}
@@ -289,7 +289,7 @@
         },
         "description": {
           "en": "I rarely use it directly because there are good tools like Tailwindcss. But as a front-end developer, I know this.",
-          "fa": "کم پیش میاد به صورت مستقیم ازش استفاده کنم تا ابزار های خوبی مثل Tailwindcss وجود دارن.ولی خب به عنوان یک توسعه دهنده فرانت خب باید منم اینو بلدم"
+          "fa": "کم پیش میاد به صورت مستقیم ازش استفاده کنم تا ابزار های خوبی مثل Tailwindcss وجود دارن.ولی خب به عنوان یک توسعه دهنده فرانت خب منم اینو بلدم"
         },
         "externalLinks": []
       }
