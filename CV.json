@@ -520,10 +520,12 @@
         "en": "Giftstorm store is a platform for selling all kinds of digital gift cards, which I was in charge of the design and front-end development."
       },
       "usedSkills": [
-        "react",
+        "reactjs",
         "tailwindcss",
         "css",
-        "html"
+        "html",
+        "laravel",
+        "php"
       ],
       "shortDescription": {
         "fa": "فروشگاه فروش گیفت کارت های دیجیتال",
