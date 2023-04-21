@@ -521,6 +521,7 @@
       },
       "usedSkills": [
         "reactjs",
+        "typescript",
         "tailwindcss",
         "css",
         "html",
@@ -551,7 +552,7 @@
         "kotlin",
         "typescript",
         "html",
-        "react",
+        "reactjs",
         "tailwindcss",
         "android"
       ],
