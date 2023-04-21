@@ -66,6 +66,7 @@
   ],
   "technicalSkills": [
     {
+      "id": "docker",
       "name": "Docker",
       "iconify": "vscode-icons:file-type-docker",
       "tags": [
@@ -73,7 +74,11 @@
       ],
       "percent": 55,
       "description": {
-        "externalLinks": [{"href": "https://www.docker.com"}],
+        "externalLinks": [
+          {
+            "href": "https://www.docker.com"
+          }
+        ],
         "friendlyName": {
           "en": "Docker",
           "fa": "داکر"
@@ -89,6 +94,7 @@
       }
     },
     {
+      "id": "scss",
       "name": "SCSS",
       "iconify": "vscode-icons:file-type-scss2",
       "tags": [
@@ -116,6 +122,7 @@
       }
     },
     {
+      "id": "tailwindcss",
       "name": "TailwindCSS",
       "iconify": "vscode-icons:file-type-tailwind",
       "tags": [
@@ -144,6 +151,7 @@
       }
     },
     {
+      "id": "javascript",
       "name": "JavaScript",
       "iconify": "vscode-icons:file-type-js-official",
       "tags": [
@@ -168,6 +176,7 @@
       }
     },
     {
+      "id": "typescript",
       "name": "TypeScript",
       "iconify": "vscode-icons:file-type-typescript-official",
       "tags": [
@@ -189,11 +198,14 @@
           "en": "I always use Typescript instead of Javascript . and I feel conformable with type safety "
         },
         "externalLinks": [
-          {"href": "https://www.typescriptlang.org"}
+          {
+            "href": "https://www.typescriptlang.org"
+          }
         ]
       }
     },
     {
+      "id": "html",
       "name": "HTML",
       "iconify": "vscode-icons:file-type-html",
       "tags": [
@@ -217,6 +229,7 @@
       }
     },
     {
+      "id": "compose",
       "name": "Compose",
       "iconify": "simple-icons:jetpackcompose",
       "tags": [
@@ -241,12 +254,13 @@
         "externalLinks": [
           {
             "href": "https://developer.android.com/jetpack/compose",
-            "title":"Jetpack Compose"
+            "title": "Jetpack Compose"
           }
         ]
       }
     },
     {
+      "id": "reactjs",
       "name": "React JS",
       "iconify": "vscode-icons:file-type-reactjs",
       "tags": [
@@ -263,15 +277,18 @@
           "en": "A modern library for front-end development"
         },
         "description": {
-          "fa":"یکی از قوی ترین لایبرری های فرانت اند هست. خیلی شبیه جتپک کامپوز هست.",
-          "en": "One of must powerful front-end framework , because it is very similar to Jetpack Compose. Both are wonderful"
+          "fa": "یکی از قوی ترین لایبرری های فرانت اند .من ری اکت رو توی 3 روز یاد گرفتم, خیلی شبیه جتپک کامپوز هست. هر دو تا فوق العاده هستن",
+          "en": "One of must powerful front-end framework ,I learned React in 3 days, because it is very similar to Jetpack Compose. Both are wonderful"
         },
         "externalLinks": [
-          {"href":"https://react.dev/"}
+          {
+            "href": "https://react.dev/"
+          }
         ]
       }
     },
     {
+      "id": "css",
       "name": "CSS",
       "iconify": "vscode-icons:file-type-css",
       "tags": [
@@ -281,20 +298,21 @@
       "description": {
         "friendlyName": {
           "fa": "سی اس اس",
-          "en":"CSS"
+          "en": "CSS"
         },
         "shortDescription": {
           "en": "All websites are styled with CSS",
-          "fa":"استایل همه وبسایت ها با CSS صورت میگیره"
+          "fa": "استایل همه وبسایت ها با CSS صورت میگیره"
         },
         "description": {
           "en": "I rarely use it directly because there are good tools like Tailwindcss. But as a front-end developer, I know this.",
-          "fa": "کم پیش میاد به صورت مستقیم ازش استفاده کنم تا ابزار های خوبی مثل Tailwindcss وجود دارن.ولی خب به عنوان یک توسعه دهنده فرانت خب منم اینو بلدم"
+          "fa": "کم پیش میاد به صورت مستقیم ازش استفاده کنم تا ابزار های خوبی مثل Tailwindcss وجود دارن.ولی خب به عنوان یک توسعه دهنده فرانت خب باید منم اینو بلدم"
         },
         "externalLinks": []
       }
     },
     {
+      "id": "git",
       "name": "Git",
       "iconify": "logos:git-icon",
       "tags": [
@@ -314,10 +332,15 @@
           "fa": "من توی همه پروژه هام از گیت استفاده مکینم. با گیت پروژه ها بهتر مدیریت میشه و احتمال از دست رفتن کد ها هم میاد پایین",
           "en": "I use Git in all my projects. With Git, projects are better managed and the possibility of losing codes is reduced"
         },
-        "externalLinks": [{"href":"https://git-scm.com/"}]
+        "externalLinks": [
+          {
+            "href": "https://git-scm.com/"
+          }
+        ]
       }
     },
     {
+      "id": "kotlin",
       "name": "Kotlin",
       "iconify": "vscode-icons:file-type-kotlin",
       "tags": [
@@ -339,11 +362,14 @@
           "fa": "این بهترین زبانیه که تا حالا دیدم. من باهاش برنامه های اندروید و دسکتاپ نوشتم .چند تا پلاگین هم برای Intellij Idea باهاش طراحی کردم."
         },
         "externalLinks": [
-          {"href": "https://kotlinlang.org"}
+          {
+            "href": "https://kotlinlang.org"
+          }
         ]
       }
     },
     {
+      "id": "php",
       "name": "PHP",
       "iconify": "vscode-icons:file-type-php2",
       "tags": [
@@ -364,10 +390,15 @@
           "fa": "اوایل زیاد با پی اچ پی کار میکردم و اعتقادی به استفاده از فریمورک نداشتم سر همین با پی اچ پی یه زمانی فریمورک هایی واسه وب و فریمورکی برای ربات  تلگرام درست کرده بودم ولی خب این روزا دیگه با پی اچ پی زیاد سروکار ندارم",
           "en": "In the beginning of my work, I spent most of my time with PHP and that times I didn't believe in using frameworks because of that I made frameworks for the web and a framework for the Telegram bot development, but these days I don't deal with PHP too much."
         },
-        "externalLinks": [{"href":"https://www.php.net/"}]
+        "externalLinks": [
+          {
+            "href": "https://www.php.net/"
+          }
+        ]
       }
     },
     {
+      "id": "laravel",
       "name": "Laravel",
       "iconify": "vscode-icons:file-type-blade",
       "tags": [
@@ -388,10 +419,15 @@
           "fa": "من از لاراول بیشتر بخاطر شیوه کد نویسی توسعه دهنده گان اصلیش خوشم میاد باورم نمیشه یه فریمورک به این زیبایی با پی اچ پی طراحی شده. من قبلا خیلی از  کد های اصلی لاراول رو میخوندم ولی خب زیاد این روزا باهاش کار نمیکنم",
           "en": "I like Laravel more because of the coding style of its creators. I can't believe that such a beautiful framework was made with PHP. I read a lot of the original Laravel source codes, but I don't work with it too much these days"
         },
-        "externalLinks": [{"href":"https://laravel.com/"}]
+        "externalLinks": [
+          {
+            "href": "https://laravel.com/"
+          }
+        ]
       }
     },
     {
+      "id": "java",
       "name": "Java",
       "iconify": "logos:java",
       "tags": [
@@ -416,6 +452,7 @@
       }
     },
     {
+      "id": "sql",
       "name": "SQL",
       "iconify": "vscode-icons:file-type-sql",
       "tags": [
@@ -468,5 +505,89 @@
       "en": "I am android and web developer since 5 years ago, I love to learn new things and trying to enjoy what I have.",
       "fa": "حدود 5 سالیه که برنامه نویس اندروید و وب هستم به یادگیری چیزای جدید علاقه دارم و سعی میکنم از چیزایی که دارم لذت ببرم."
     }
-  }
+  },
+  "projectSamples": [
+    {
+      "id": "giftstorm",
+      "icon": "https://imgtr.ee/images/2023/04/18/0k5YF.png",
+      "name": {
+        "fa": "گیفت استورم",
+        "en": "Giftstorm"
+      },
+      "type": "website",
+      "description": {
+        "fa": "فروشگاه گیفت استورم یک پلتفرم برای فروش انواع گیفت کارت های دیجیتال هست که من بخش دیزاین و فرانت سایت رو بر عهده داشتم",
+        "en": "Giftstorm store is a platform for selling all kinds of digital gift cards, which I was in charge of the design and front-end development."
+      },
+      "usedSkills": [
+        "react",
+        "tailwindcss",
+        "css",
+        "html"
+      ],
+      "shortDescription": {
+        "fa": "فروشگاه فروش گیفت کارت های دیجیتال",
+        "en": "Digital gift card store"
+      },
+      "mainLink": "https://giftstorm.ir",
+      "sourceCode": null,
+      "screenshots": []
+    },
+    {
+      "id": "debugboard",
+      "icon": "https://imgtr.ee/images/2023/04/18/0kLfL.png",
+      "name": {
+        "fa": "Debug Board",
+        "en": "Debug Board"
+      },
+      "type": "library",
+      "description": {
+        "fa": "این کتابخانه شامل ابزارهای اشکال زدایی برای توسعه دهندگان kotlin است، به عنوان مثال می توانید متغیرهای خود را در زمان اجرا مشاهده کنید و یا بر درخواست های شبکه خود را نظارت کنید و موارد دیگر.\n برای اطلاعات بیشتر به صفحه github مراجعه  کنید.",
+        "en": "This library contains debug utilities for kotlin developers, for example you can watch your variables during runtime or even monitor your network requests and more \n. Check github page for more details."
+      },
+      "usedSkills": [
+        "kotlin",
+        "typescript",
+        "html",
+        "react",
+        "tailwindcss",
+        "android"
+      ],
+      "shortDescription": {
+        "fa": "ابزارهای رفع اشکال در زمان اجرا",
+        "en": "Runtime debug utilities"
+      },
+      "mainLink": "https://github.com/amir1376/debugboard",
+      "screenshots": [
+        "https://github.com/amir1376/debugboard/raw/master/static/watcher_panel.png",
+        "https://github.com/amir1376/debugboard/raw/master/static/network_panel.png"
+      ],
+      "sourceCode": "https://github.com/amir1376/debugboard"
+    },
+    {
+      "id": "kotlin-validator",
+      "icon": "https://imgtr.ee/images/2023/04/18/0krll.png",
+      "name": {
+        "fa": "Kotlin Validator",
+        "en": "Kotlin Validator"
+      },
+      "type": "library",
+      "description": {
+        "fa": "این پروژه یک لایبرری برای ولیدیت کردن مقادیر مختلفی که کاربر وارد سیستم میکند میباشد.\n برای مثال میتوانید ایمیل ها پسورد ها و خیلی چیز های دیگه را به راحتی ولیدیت کنید. همچنین به کمک این لایبرری میتوانید قوانین اختصاصی خودتان را هم تولید کنید \n برای اطلاع از شیوه نصب و راه اندازی به صفححه گیتهاب پروژه مراجعه کنید",
+        "en": "This project is a library for validating various values which the user enters into the system. For example, you can validate emails, passwords and much more stuffs!. You can also create your own rules with the help of this library\nFor installation and setup refer to the GitHub page of the project."
+      },
+      "usedSkills": [
+        "kotlin",
+        "android"
+      ],
+      "shortDescription": {
+        "fa": "فرم ها و ورودی های خود را با آسانی اعتبارسنجی کنید",
+        "en": "Validate your forms and inputs with easy"
+      },
+      "mainLink": "https://github.com/amir1376/kotlin-validator",
+      "screenshots": [
+      ],
+      "sourceCode": "https://github.com/amir1376/kotlin-validator"
+    }
+  ]
 }
