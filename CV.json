@@ -568,6 +568,33 @@
       "sourceCode": "https://github.com/amir1376/debugboard"
     },
     {
+      "id": "debugboard-idea-plugin",
+      "icon": "https://imgtr.ee/images/2023/05/06/aunY3.png",
+      "name": {
+        "fa": "Debug Board Idea",
+        "en": "Debug Board Idea"
+      },
+      "type": "plugin",
+      "description": {
+        "fa": "این یک پلاگین برای Intellij Idea و Android Studio هست , که به کمک ان میتوان از امکانات لایبرری Debug Board در داخل خود IDE بهره مند شد . شما میتوانید آن را از Jetbrains Market Place دانلود کنید",
+        "en": "This is a plugin for Intellij Idea and Android Studio, with the help of it, you can benefit from the Debug Board library functionalities inside the IDE itself. You can download it from Jetbrains Market Place"
+      },
+      "usedSkills": [
+        "kotlin"
+      ],
+      "shortDescription": {
+        "fa": "پنل ِDebugBoard برای بستر Intellij Idea",
+        "en": "Debug Board panel for Intellij Idea based IDE's"
+      },
+      "mainLink": "https://plugins.jetbrains.com/plugin/21331-debug-board",
+      "screenshots": [
+        "https://imgtr.ee/images/2023/05/06/auahm.png",
+        "https://imgtr.ee/images/2023/05/06/au8R0.png",
+        "https://imgtr.ee/images/2023/05/06/auJbF.png"
+      ],
+      "sourceCode": "https://github.com/amir1376/debugboard/tree/master/ui/idea-plugin"
+    },
+    {
       "id": "kotlin-validator",
       "icon": "https://imgtr.ee/images/2023/04/18/0krll.png",
       "name": {
