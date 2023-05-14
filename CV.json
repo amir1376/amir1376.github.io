@@ -509,7 +509,7 @@
   "projectSamples": [
     {
       "id": "giftstorm",
-      "icon": "https://imgtr.ee/images/2023/04/18/0k5YF.png",
+      "icon": "https://static.amirab.ir/logo/giftstorm.png",
       "name": {
         "fa": "گیفت استورم",
         "en": "Giftstorm"
@@ -538,7 +538,7 @@
     },
     {
       "id": "debugboard",
-      "icon": "https://imgtr.ee/images/2023/04/18/0kLfL.png",
+      "icon": "https://static.amirab.ir/logo/debugboard.png",
       "name": {
         "fa": "Debug Board",
         "en": "Debug Board"
@@ -562,14 +562,14 @@
       },
       "mainLink": "https://github.com/amir1376/debugboard",
       "screenshots": [
-        "https://github.com/amir1376/debugboard/raw/master/static/watcher_panel.png",
-        "https://github.com/amir1376/debugboard/raw/master/static/network_panel.png"
+        "https://static.amirab.ir/shots/debugboard_watcher_panel.png",
+        "https://static.amirab.ir/shots/debugboard_network_panel.png"
       ],
       "sourceCode": "https://github.com/amir1376/debugboard"
     },
     {
       "id": "debugboard-idea-plugin",
-      "icon": "https://imgtr.ee/images/2023/05/06/aunY3.png",
+      "icon": "https://static.amirab.ir/logo/debugboard-plugin.png",
       "name": {
         "fa": "Debug Board Idea",
         "en": "Debug Board Idea"
@@ -588,15 +588,15 @@
       },
       "mainLink": "https://plugins.jetbrains.com/plugin/21331-debug-board",
       "screenshots": [
-        "https://imgtr.ee/images/2023/05/06/auahm.png",
-        "https://imgtr.ee/images/2023/05/06/au8R0.png",
-        "https://imgtr.ee/images/2023/05/06/auJbF.png"
+        "https://static.amirab.ir/shots/debugboard_plugin_network_watcher_1.png",
+        "https://static.amirab.ir/shots/debugboard_plugin_network_watcher_2.png",
+        "https://static.amirab.ir/shots/debugboard_plugin_variable_watcher_1.png"
       ],
       "sourceCode": "https://github.com/amir1376/debugboard/tree/master/ui/idea-plugin"
     },
     {
       "id": "kotlin-validator",
-      "icon": "https://imgtr.ee/images/2023/04/18/0krll.png",
+      "icon": "https://static.amirab.ir/logo/kotlin-validator.png",
       "name": {
         "fa": "Kotlin Validator",
         "en": "Kotlin Validator"
