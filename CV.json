@@ -583,8 +583,8 @@
         "kotlin"
       ],
       "shortDescription": {
-        "fa": "پنل ِDebugBoard برای بستر Intellij Idea",
-        "en": "Debug Board panel for Intellij Idea based IDE's"
+        "fa": "پنل DebugBoard برای بستر Intellij Idea",
+        "en": "DebugBoard panel for Intellij Idea based IDE's"
       },
       "mainLink": "https://plugins.jetbrains.com/plugin/21331-debug-board",
       "screenshots": [
