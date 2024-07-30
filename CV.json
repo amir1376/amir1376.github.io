@@ -1,652 +1,652 @@
 {
-    "languageSkills": [
-        {
-            "name": {
-                "en": "Persian",
-                "fa": "فارسی"
-            },
-            "native": true,
-            "percent": 100
+  "languageSkills": [
+    {
+      "name": {
+        "en": "Persian",
+        "fa": "فارسی"
+      },
+      "native": true,
+      "percent": 100
+    },
+    {
+      "name": {
+        "en": "English",
+        "fa": "انگلیسی"
+      },
+      "native": false,
+      "percent": 45
+    }
+  ],
+  "contactDetails": [
+    {
+      "name": {
+        "en": "telegram",
+        "fa": "تلگرام"
+      },
+      "value": "@Amir_Ai",
+      "href": "https://t.me/amir_ai",
+      "iconify": "ic:baseline-telegram"
+    },
+    {
+      "name": {
+        "en": "Github",
+        "fa": "گیتهاب"
+      },
+      "value": "amir1376",
+      "href": "https://github.com/amir1376",
+      "iconify": "cib:github"
+    },
+    {
+      "name": {
+        "en": "Instagram",
+        "fa": "اینستاگرام"
+      },
+      "value": "amir_ai76",
+      "href": "https://www.instagram.com/amir_ai76",
+      "iconify": "ant-design:instagram-outlined"
+    },
+    {
+      "name": {
+        "en": "Phone",
+        "fa": "تلفن"
+      },
+      "value": "+989352902221",
+      "href": "tel:+989352902221",
+      "iconify": "fluent:call-16-filled"
+    },
+    {
+      "name": {
+        "en": "Email",
+        "fa": "ایمیل"
+      },
+      "value": "amir.a1376@gmail.com",
+      "href": "mailto:amir.a1376@gmail.com",
+      "iconify": "entypo:email"
+    }
+  ],
+  "technicalSkills": [
+    {
+      "id": "docker",
+      "name": "Docker",
+      "iconify": "vscode-icons:file-type-docker",
+      "tags": [
+        "tools"
+      ],
+      "percent": 55,
+      "description": {
+        "externalLinks": [
+          {
+            "href": "https://www.docker.com"
+          }
+        ],
+        "friendlyName": {
+          "en": "Docker",
+          "fa": "داکر"
         },
-        {
-            "name": {
-                "en": "English",
-                "fa": "انگلیسی"
-            },
-            "native": false,
-            "percent": 45
-        }
-    ],
-    "contactDetails": [
-        {
-            "name": {
-                "en": "telegram",
-                "fa": "تلگرام"
-            },
-            "value": "@Amir_Ai",
-            "href": "https://t.me/amir_ai",
-            "iconify": "ic:baseline-telegram"
-        },
-        {
-            "name": {
-                "en": "Github",
-                "fa": "گیتهاب"
-            },
-            "value": "amir1376",
-            "href": "https://github.com/amir1376",
-            "iconify": "cib:github"
-        },
-        {
-            "name": {
-                "en": "Instagram",
-                "fa": "اینستاگرام"
-            },
-            "value": "amir_ai76",
-            "href": "https://www.instagram.com/amir_ai76",
-            "iconify": "ant-design:instagram-outlined"
-        },
-        {
-            "name": {
-                "en": "Phone",
-                "fa": "تلفن"
-            },
-            "value": "+989352902221",
-            "href": "tel:+989352902221",
-            "iconify": "fluent:call-16-filled"
-        },
-        {
-            "name": {
-                "en": "Email",
-                "fa": "ایمیل"
-            },
-            "value": "amir.a1376@gmail.com",
-            "href": "mailto:amir.a1376@gmail.com",
-            "iconify": "entypo:email"
-        }
-    ],
-    "technicalSkills": [
-        {
-            "id": "docker",
-            "name": "Docker",
-            "iconify": "vscode-icons:file-type-docker",
-            "tags": [
-                "tools"
-            ],
-            "percent": 55,
-            "description": {
-                "externalLinks": [
-                    {
-                        "href": "https://www.docker.com"
-                    }
-                ],
-                "friendlyName": {
-                    "en": "Docker",
-                    "fa": "داکر"
-                },
-                "shortDescription": {
-                    "fa": "اجرا کردن برنامه ها در یک محیط ایزوله",
-                    "en": "Running applications isolated environment"
-                },
-                "description": {
-                    "fa": "با داکر پروژه هامو روی سرور و کامپیوتر شخصیم میارم بالا. همه برنامه ها تو یه محیط ایزوله هستن و فایل های اصلیم تو سیستم عامل رو تغییر نمیدن",
-                    "en": "I run and deploy my application in my own pc or server. these apps are isolated and does not change any of my files in my main OS"
-                }
-            }
-        },
-        {
-            "id": "scss",
-            "name": "SCSS",
-            "iconify": "vscode-icons:file-type-scss2",
-            "tags": [
-                "front-end"
-            ],
-            "percent": 50,
-            "description": {
-                "friendlyName": {
-                    "fa": "SCSS",
-                    "en": "SCSS"
-                },
-                "shortDescription": {
-                    "en": "A CSS Preprocessor",
-                    "fa": "یک پردازشگر برای CSS"
-                },
-                "description": {
-                    "fa": "اگر مجبور شم از css خام استفاده کنم میام سراغش",
-                    "en": "When I have to use pure CSS. I will go for it"
-                },
-                "externalLinks": [
-                    {
-                        "href": "https://sass-lang.com/"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "tailwindcss",
-            "name": "TailwindCSS",
-            "iconify": "vscode-icons:file-type-tailwind",
-            "tags": [
-                "front-end",
-                "framework"
-            ],
-            "percent": 80,
-            "description": {
-                "externalLinks": [
-                    {
-                        "href": "https://tailwindcss.com"
-                    }
-                ],
-                "shortDescription": {
-                    "fa": "ابزار کمکی برای css",
-                    "en": "A utility for css"
-                },
-                "description": {
-                    "fa": "تقریبا همه جا بجای استفاده مستقیم از css خام ازش استفاده میکنم",
-                    "en": "Almost every where I use it instead of pure CSS"
-                },
-                "friendlyName": {
-                    "fa": "تیلوند",
-                    "en": "Tailwind"
-                }
-            }
-        },
-        {
-            "id": "javascript",
-            "name": "JavaScript",
-            "iconify": "vscode-icons:file-type-js-official",
-            "tags": [
-                "language",
-                "front-end"
-            ],
-            "percent": 60,
-            "description": {
-                "friendlyName": {
-                    "fa": "جاوا اسکریپت",
-                    "en": "Java Script"
-                },
-                "shortDescription": {
-                    "fa": "یک زبان با جامعه بزرگ",
-                    "en": "A language with a large community"
-                },
-                "externalLinks": [],
-                "description": {
-                    "fa": "یه زبان که همه جا کاربرد داره ولی خب من تایپ اسکریپت رو ترجیح میدم",
-                    "en": "A language which is used everywhere but I prefer Typescript"
-                }
-            }
-        },
-        {
-            "id": "typescript",
-            "name": "TypeScript",
-            "iconify": "vscode-icons:file-type-typescript-official",
-            "tags": [
-                "language",
-                "front-end"
-            ],
-            "percent": 65,
-            "description": {
-                "friendlyName": {
-                    "fa": "تایپ اسکریپت",
-                    "en": "Type Script"
-                },
-                "shortDescription": {
-                    "fa": "یک جایگزین امن برای جاوا اسکریپت",
-                    "en": "A safer replacement for javascript"
-                },
-                "description": {
-                    "fa": "من همیشه از تایپ اسکریپت به جای جاوا اسکریپت استفاده میکنم و خیالم از تایپ ها راحته",
-                    "en": "I always use Typescript instead of Javascript . and I feel conformable with type safety "
-                },
-                "externalLinks": [
-                    {
-                        "href": "https://www.typescriptlang.org"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "html",
-            "name": "HTML",
-            "iconify": "vscode-icons:file-type-html",
-            "tags": [
-                "front-end"
-            ],
-            "percent": 80,
-            "description": {
-                "externalLinks": [],
-                "friendlyName": {
-                    "fa": "اچ تی ام ال",
-                    "en": "HTML"
-                },
-                "shortDescription": {
-                    "fa": "همه صفحهات وب HTML هستن",
-                    "en": "All of webpages are HTML"
-                },
-                "description": {
-                    "fa": "خب به عنوان کسی که فرانت هم کار میکنه منم دیگه باید بلدش باشم:)",
-                    "en": "So for a front developer. I have to know it too :)"
-                }
-            }
-        },
-        {
-            "id": "compose",
-            "name": "Compose",
-            "iconify": "simple-icons:jetpackcompose",
-            "tags": [
-                "android",
-                "framework",
-                "front-end"
-            ],
-            "percent": 80,
-            "description": {
-                "friendlyName": {
-                    "fa": "جت پک کمپوز",
-                    "en": "Jetpack Compose"
-                },
-                "shortDescription": {
-                    "fa": "ساده کننده توسعه رابط کاربری برای اندروید",
-                    "en": "Android UI development simplifier"
-                },
-                "description": {
-                    "fa": "یک فریمورک رابط کاربری مدرن و تمیز که باهاش برای اندروید و حتی دسکتاپ رابط کاربری طراحی میکنم و واقعا برام لذت بخشه",
-                    "en": "A Modern declarative UI framework. With it, I design user interface for Android and even desktop, and I really enjoy it"
-                },
-                "externalLinks": [
-                    {
-                        "href": "https://developer.android.com/jetpack/compose",
-                        "title": "Jetpack Compose"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "reactjs",
-            "name": "React JS",
-            "iconify": "vscode-icons:file-type-reactjs",
-            "tags": [
-                "front-end"
-            ],
-            "percent": 80,
-            "description": {
-                "friendlyName": {
-                    "en": "React JS",
-                    "fa": "ری اکت"
-                },
-                "shortDescription": {
-                    "fa": "یک لایبرری مدرن برای توسعه فرانت اند",
-                    "en": "A modern library for front-end development"
-                },
-                "description": {
-                    "fa": "یکی از قوی ترین لایبرری های فرانت اند .من ری اکت رو توی 3 روز یاد گرفتم, خیلی شبیه جتپک کامپوز هست. هر دو تا فوق العاده هستن",
-                    "en": "One of must powerful front-end framework ,I learned React in 3 days, because it is very similar to Jetpack Compose. Both are wonderful"
-                },
-                "externalLinks": [
-                    {
-                        "href": "https://react.dev/"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "css",
-            "name": "CSS",
-            "iconify": "vscode-icons:file-type-css",
-            "tags": [
-                "front-end"
-            ],
-            "percent": 55,
-            "description": {
-                "friendlyName": {
-                    "fa": "سی اس اس",
-                    "en": "CSS"
-                },
-                "shortDescription": {
-                    "en": "All websites are styled with CSS",
-                    "fa": "استایل همه وبسایت ها با CSS صورت میگیره"
-                },
-                "description": {
-                    "en": "I rarely use it directly because there are good tools like Tailwindcss. But as a front-end developer, I know this.",
-                    "fa": "کم پیش میاد به صورت مستقیم ازش استفاده کنم تا ابزار های خوبی مثل Tailwindcss وجود دارن.ولی خب به عنوان یک توسعه دهنده فرانت خب باید منم اینو بلدم"
-                },
-                "externalLinks": []
-            }
-        },
-        {
-            "id": "git",
-            "name": "Git",
-            "iconify": "logos:git-icon",
-            "tags": [
-                "tools"
-            ],
-            "percent": 55,
-            "description": {
-                "friendlyName": {
-                    "fa": "گیت",
-                    "en": "Git"
-                },
-                "shortDescription": {
-                    "fa": "مدیریت و نگهاداری ورژن ها",
-                    "en": "Version control management"
-                },
-                "description": {
-                    "fa": "من توی همه پروژه هام از گیت استفاده مکینم. با گیت پروژه ها بهتر مدیریت میشه و احتمال از دست رفتن کد ها هم میاد پایین",
-                    "en": "I use Git in all my projects. With Git, projects are better managed and the possibility of losing codes is reduced"
-                },
-                "externalLinks": [
-                    {
-                        "href": "https://git-scm.com/"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "kotlin",
-            "name": "Kotlin",
-            "iconify": "vscode-icons:file-type-kotlin",
-            "tags": [
-                "language",
-                "android"
-            ],
-            "percent": 100,
-            "description": {
-                "friendlyName": {
-                    "fa": "کاتلین",
-                    "en": "Kotlin"
-                },
-                "shortDescription": {
-                    "fa": "یه زبان مدرن جایگزین جاوا",
-                    "en": "A Modern language an alternative for java"
-                },
-                "description": {
-                    "en": "This is the best language I ever saw! I am using this language for developing android/desktop applications. I also developed some Intellij Idea plugin with that.",
-                    "fa": "این بهترین زبانیه که تا حالا دیدم. من باهاش برنامه های اندروید و دسکتاپ نوشتم .چند تا پلاگین هم برای Intellij Idea باهاش طراحی کردم."
-                },
-                "externalLinks": [
-                    {
-                        "href": "https://kotlinlang.org"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "php",
-            "name": "PHP",
-            "iconify": "vscode-icons:file-type-php2",
-            "tags": [
-                "language",
-                "back-end"
-            ],
-            "percent": 75,
-            "description": {
-                "friendlyName": {
-                    "fa": "پی اچ پی",
-                    "en": "PHP"
-                },
-                "shortDescription": {
-                    "fa": "زبان برنامه نویسی مخصوص توسعه وب",
-                    "en": "Programming language for web development"
-                },
-                "description": {
-                    "fa": "اوایل زیاد با پی اچ پی کار میکردم و اعتقادی به استفاده از فریمورک نداشتم سر همین با پی اچ پی یه زمانی فریمورک هایی واسه وب و فریمورکی برای ربات  تلگرام درست کرده بودم ولی خب این روزا دیگه با پی اچ پی زیاد سروکار ندارم",
-                    "en": "In the beginning of my work, I spent most of my time with PHP and that times I didn't believe in using frameworks because of that I made frameworks for the web and a framework for the Telegram bot development, but these days I don't deal with PHP too much."
-                },
-                "externalLinks": [
-                    {
-                        "href": "https://www.php.net/"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "laravel",
-            "name": "Laravel",
-            "iconify": "vscode-icons:file-type-blade",
-            "tags": [
-                "framework",
-                "back-end"
-            ],
-            "percent": 50,
-            "description": {
-                "friendlyName": {
-                    "fa": "لاراول",
-                    "en": "Laravel"
-                },
-                "shortDescription": {
-                    "fa": "یک فریمورک پی اچ پی برای بکند کار ها",
-                    "en": "A php framework for web artisans"
-                },
-                "description": {
-                    "fa": "من از لاراول بیشتر بخاطر شیوه کد نویسی توسعه دهنده گان اصلیش خوشم میاد باورم نمیشه یه فریمورک به این زیبایی با پی اچ پی طراحی شده. من قبلا خیلی از  کد های اصلی لاراول رو میخوندم ولی خب زیاد این روزا باهاش کار نمیکنم",
-                    "en": "I like Laravel more because of the coding style of its creators. I can't believe that such a beautiful framework was made with PHP. I read a lot of the original Laravel source codes, but I don't work with it too much these days"
-                },
-                "externalLinks": [
-                    {
-                        "href": "https://laravel.com/"
-                    }
-                ]
-            }
-        },
-        {
-            "id": "java",
-            "name": "Java",
-            "iconify": "logos:java",
-            "tags": [
-                "language",
-                "android"
-            ],
-            "percent": 90,
-            "description": {
-                "friendlyName": {
-                    "fa": "جاوا",
-                    "en": "Java"
-                },
-                "shortDescription": {
-                    "fa": "یک زبان ثابت شده و مطمعن",
-                    "en": "A proven and reliable language"
-                },
-                "description": {
-                    "fa": "یه زبان خیلی مطمعن و قابل استفاده در همه جا. قبل از که کاتلین منتشر بشه زبان برنامه نویسی اصلی مورد استفاده من بود.",
-                    "en": "A very reliable language that can be used everywhere. Before Kotlin was published, it was my main programming language."
-                },
-                "externalLinks": []
-            }
-        },
-        {
-            "id": "sql",
-            "name": "SQL",
-            "iconify": "vscode-icons:file-type-sql",
-            "tags": [
-                "android",
-                "back-end"
-            ],
-            "percent": 45,
-            "description": {
-                "shortDescription": {
-                    "fa": "یک زبان برای تعامل با دیتابیس",
-                    "en": "A language for communicating with database"
-                },
-                "externalLinks": [],
-                "friendlyName": {
-                    "en": "SQL Language",
-                    "fa": "زبان SQL"
-                },
-                "description": {
-                    "fa": "یکی از بخش های اصلی در توسعه بکند هست. منم در حد نیازم توش تخصص دارم",
-                    "en": "This is an essential part of backend development, I have expertise in it as much as I need"
-                }
-            }
-        }
-    ],
-    "personalInfo": {
-        "location": {
-            "en": "Iran",
-            "fa": "ایران"
-        },
-        "education": {
-            "en": "Computer Engineering",
-            "fa": "مهندسی کامپیوتر"
-        },
-        "image": "https://avatars.githubusercontent.com/u/38394888?v=4",
-        "firstname": {
-            "en": "AmirHossein",
-            "fa": "امیرحسین"
-        },
-        "lastname": {
-            "en": "Abdolmotallebi",
-            "fa": "عبدالمطلبی"
-        },
-        "birthDay": "1998-1-17",
-        "experienceStarts": "2017-1-1",
-        "job": {
-            "en": "Software developer",
-            "fa": "برنامه نویس"
+        "shortDescription": {
+          "fa": "اجرا کردن برنامه ها در یک محیط ایزوله",
+          "en": "Running applications isolated environment"
         },
         "description": {
-            "en": "I am android and web developer since 5 years ago, I love to learn new things and trying to enjoy what I have.",
-            "fa": "حدود 5 سالیه که برنامه نویس اندروید و وب هستم به یادگیری چیزای جدید علاقه دارم و سعی میکنم از چیزایی که دارم لذت ببرم."
+          "fa": "با داکر پروژه هامو روی سرور و کامپیوتر شخصیم میارم بالا. همه برنامه ها تو یه محیط ایزوله هستن و فایل های اصلیم تو سیستم عامل رو تغییر نمیدن",
+          "en": "I run and deploy my application in my own pc or server. these apps are isolated and does not change any of my files in my main OS"
         }
+      }
     },
-    "projectSamples": [
-        {
-            "id": "ab-download-manager",
-            "icon": "https://static.amirab.ir/logo/ab-download-manager.svg",
-            "name": {
-                "fa": "AB Download Manager",
-                "en": "AB Download Manager",
-            },
-            "type": "application",
-            "description": {
-                "fa": "یک نرم افزار مدیریت دانلود که سرعت دانلود را بهبود می‌بخشد، امکان زمان‌بندی و صف‌بندی دانلودها را فراهم می‌کند، از قابلیت توقف و از سرگیری دانلودها پشتیبانی می‌کند و دارای یک رابط کاربری مدرن و کاربرپسند است. این اپلیکیشن همچنین دارای افزونه مرورگر هست تا لینک‌های دانلود را به‌طور مستقیم از مرورگر دانلود کند",
-                "en": "this is a download manager application that improves download speeds, allows users to schedule and queue downloads, supports pausing and resuming downloads, and features a modern, intuitive interface. The app also has browser integration to capture download links directly from the browser."
-            },
-            "usedSkills": [
-                "kotlin",
-                "compose",
-                "git"
-            ],
-            "shortDescription": {
-                "fa": "نرم افزار میدیریت دانلود",
-                "en": "Download Manager App"
-            },
-            "mainLink": "https://abdownloadmanager.com",
-            "sourceCode": "https://github.com/amir1376/ab-download-manager",
-            "screenshots": [
-                "https://static.amirab.ir/shots/abdm-banner.png",
-                "https://static.amirab.ir/shots/abdm-app-dark.png",
-                "https://static.amirab.ir/shots/abdm-app-white.png",
-            ]
+    {
+      "id": "scss",
+      "name": "SCSS",
+      "iconify": "vscode-icons:file-type-scss2",
+      "tags": [
+        "front-end"
+      ],
+      "percent": 50,
+      "description": {
+        "friendlyName": {
+          "fa": "SCSS",
+          "en": "SCSS"
         },
-        {
-            "id": "giftstorm",
-            "icon": "https://static.amirab.ir/logo/giftstorm.png",
-            "name": {
-                "fa": "گیفت استورم",
-                "en": "Giftstorm"
-            },
-            "type": "website",
-            "description": {
-                "fa": "فروشگاه گیفت استورم یک پلتفرم برای فروش انواع گیفت کارت های دیجیتال هست که من بخش دیزاین و فرانت سایت رو بر عهده داشتم",
-                "en": "Giftstorm store is a platform for selling all kinds of digital gift cards, which I was in charge of the design and front-end development."
-            },
-            "usedSkills": [
-                "reactjs",
-                "typescript",
-                "tailwindcss",
-                "css",
-                "html",
-                "laravel",
-                "php"
-            ],
-            "shortDescription": {
-                "fa": "فروشگاه فروش گیفت کارت های دیجیتال",
-                "en": "Digital gift card store"
-            },
-            "mainLink": "https://giftstorm.ir",
-            "sourceCode": null,
-            "screenshots": []
+        "shortDescription": {
+          "en": "A CSS Preprocessor",
+          "fa": "یک پردازشگر برای CSS"
         },
-        {
-            "id": "debugboard",
-            "icon": "https://static.amirab.ir/logo/debugboard.png",
-            "name": {
-                "fa": "Debug Board",
-                "en": "Debug Board"
-            },
-            "type": "library",
-            "description": {
-                "fa": "این کتابخانه شامل ابزارهای اشکال زدایی برای توسعه دهندگان kotlin است، به عنوان مثال می توانید متغیرهای خود را در زمان اجرا مشاهده کنید و یا بر درخواست های شبکه خود را نظارت کنید و موارد دیگر.\n برای اطلاعات بیشتر به صفحه github مراجعه  کنید.",
-                "en": "This library contains debug utilities for kotlin developers, for example you can watch your variables during runtime or even monitor your network requests and more \n. Check github page for more details."
-            },
-            "usedSkills": [
-                "kotlin",
-                "typescript",
-                "html",
-                "reactjs",
-                "tailwindcss",
-                "android"
-            ],
-            "shortDescription": {
-                "fa": "ابزارهای رفع اشکال در زمان اجرا",
-                "en": "Runtime debug utilities"
-            },
-            "mainLink": "https://github.com/amir1376/debugboard",
-            "screenshots": [
-                "https://static.amirab.ir/shots/debugboard_watcher_panel.png",
-                "https://static.amirab.ir/shots/debugboard_network_panel.png"
-            ],
-            "sourceCode": "https://github.com/amir1376/debugboard"
+        "description": {
+          "fa": "اگر مجبور شم از css خام استفاده کنم میام سراغش",
+          "en": "When I have to use pure CSS. I will go for it"
         },
-        {
-            "id": "debugboard-idea-plugin",
-            "icon": "https://static.amirab.ir/logo/debugboard-plugin.png",
-            "name": {
-                "fa": "Debug Board Idea",
-                "en": "Debug Board Idea"
-            },
-            "type": "plugin",
-            "description": {
-                "fa": "این یک پلاگین برای Intellij Idea و Android Studio هست , که به کمک ان میتوان از امکانات لایبرری Debug Board در داخل خود IDE بهره مند شد . شما میتوانید آن را از Jetbrains Market Place دانلود کنید",
-                "en": "This is a plugin for Intellij Idea and Android Studio, with the help of it, you can benefit from the Debug Board library functionalities inside the IDE itself. You can download it from Jetbrains Market Place"
-            },
-            "usedSkills": [
-                "kotlin"
-            ],
-            "shortDescription": {
-                "fa": "پنل DebugBoard برای بستر Intellij Idea",
-                "en": "DebugBoard panel for Intellij Idea based IDE's"
-            },
-            "mainLink": "https://plugins.jetbrains.com/plugin/21331-debug-board",
-            "screenshots": [
-                "https://static.amirab.ir/shots/debugboard_plugin_network_watcher_1.png",
-                "https://static.amirab.ir/shots/debugboard_plugin_network_watcher_2.png",
-                "https://static.amirab.ir/shots/debugboard_plugin_variable_watcher_1.png"
-            ],
-            "sourceCode": "https://github.com/amir1376/debugboard/tree/master/ui/idea-plugin"
+        "externalLinks": [
+          {
+            "href": "https://sass-lang.com/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tailwindcss",
+      "name": "TailwindCSS",
+      "iconify": "vscode-icons:file-type-tailwind",
+      "tags": [
+        "front-end",
+        "framework"
+      ],
+      "percent": 80,
+      "description": {
+        "externalLinks": [
+          {
+            "href": "https://tailwindcss.com"
+          }
+        ],
+        "shortDescription": {
+          "fa": "ابزار کمکی برای css",
+          "en": "A utility for css"
         },
-        {
-            "id": "kotlin-validator",
-            "icon": "https://static.amirab.ir/logo/kotlin-validator.png",
-            "name": {
-                "fa": "Kotlin Validator",
-                "en": "Kotlin Validator"
-            },
-            "type": "library",
-            "description": {
-                "fa": "این پروژه یک لایبرری برای ولیدیت کردن مقادیر مختلفی که کاربر وارد سیستم میکند میباشد.\n برای مثال میتوانید ایمیل ها پسورد ها و خیلی چیز های دیگه را به راحتی ولیدیت کنید. همچنین به کمک این لایبرری میتوانید قوانین اختصاصی خودتان را هم تولید کنید \n برای اطلاع از شیوه نصب و راه اندازی به صفححه گیتهاب پروژه مراجعه کنید",
-                "en": "This project is a library for validating various values which the user enters into the system. For example, you can validate emails, passwords and much more stuffs!. You can also create your own rules with the help of this library\nFor installation and setup refer to the GitHub page of the project."
-            },
-            "usedSkills": [
-                "kotlin",
-                "android"
-            ],
-            "shortDescription": {
-                "fa": "فرم ها و ورودی های خود را با آسانی اعتبارسنجی کنید",
-                "en": "Validate your forms and inputs with easy"
-            },
-            "mainLink": "https://github.com/amir1376/kotlin-validator",
-            "screenshots": [
-            ],
-            "sourceCode": "https://github.com/amir1376/kotlin-validator"
+        "description": {
+          "fa": "تقریبا همه جا بجای استفاده مستقیم از css خام ازش استفاده میکنم",
+          "en": "Almost every where I use it instead of pure CSS"
+        },
+        "friendlyName": {
+          "fa": "تیلوند",
+          "en": "Tailwind"
         }
-    ]
+      }
+    },
+    {
+      "id": "javascript",
+      "name": "JavaScript",
+      "iconify": "vscode-icons:file-type-js-official",
+      "tags": [
+        "language",
+        "front-end"
+      ],
+      "percent": 60,
+      "description": {
+        "friendlyName": {
+          "fa": "جاوا اسکریپت",
+          "en": "Java Script"
+        },
+        "shortDescription": {
+          "fa": "یک زبان با جامعه بزرگ",
+          "en": "A language with a large community"
+        },
+        "externalLinks": [],
+        "description": {
+          "fa": "یه زبان که همه جا کاربرد داره ولی خب من تایپ اسکریپت رو ترجیح میدم",
+          "en": "A language which is used everywhere but I prefer Typescript"
+        }
+      }
+    },
+    {
+      "id": "typescript",
+      "name": "TypeScript",
+      "iconify": "vscode-icons:file-type-typescript-official",
+      "tags": [
+        "language",
+        "front-end"
+      ],
+      "percent": 65,
+      "description": {
+        "friendlyName": {
+          "fa": "تایپ اسکریپت",
+          "en": "Type Script"
+        },
+        "shortDescription": {
+          "fa": "یک جایگزین امن برای جاوا اسکریپت",
+          "en": "A safer replacement for javascript"
+        },
+        "description": {
+          "fa": "من همیشه از تایپ اسکریپت به جای جاوا اسکریپت استفاده میکنم و خیالم از تایپ ها راحته",
+          "en": "I always use Typescript instead of Javascript . and I feel conformable with type safety "
+        },
+        "externalLinks": [
+          {
+            "href": "https://www.typescriptlang.org"
+          }
+        ]
+      }
+    },
+    {
+      "id": "html",
+      "name": "HTML",
+      "iconify": "vscode-icons:file-type-html",
+      "tags": [
+        "front-end"
+      ],
+      "percent": 80,
+      "description": {
+        "externalLinks": [],
+        "friendlyName": {
+          "fa": "اچ تی ام ال",
+          "en": "HTML"
+        },
+        "shortDescription": {
+          "fa": "همه صفحهات وب HTML هستن",
+          "en": "All of webpages are HTML"
+        },
+        "description": {
+          "fa": "خب به عنوان کسی که فرانت هم کار میکنه منم دیگه باید بلدش باشم:)",
+          "en": "So for a front developer. I have to know it too :)"
+        }
+      }
+    },
+    {
+      "id": "compose",
+      "name": "Compose",
+      "iconify": "simple-icons:jetpackcompose",
+      "tags": [
+        "android",
+        "framework",
+        "front-end"
+      ],
+      "percent": 80,
+      "description": {
+        "friendlyName": {
+          "fa": "جت پک کمپوز",
+          "en": "Jetpack Compose"
+        },
+        "shortDescription": {
+          "fa": "ساده کننده توسعه رابط کاربری برای اندروید",
+          "en": "Android UI development simplifier"
+        },
+        "description": {
+          "fa": "یک فریمورک رابط کاربری مدرن و تمیز که باهاش برای اندروید و حتی دسکتاپ رابط کاربری طراحی میکنم و واقعا برام لذت بخشه",
+          "en": "A Modern declarative UI framework. With it, I design user interface for Android and even desktop, and I really enjoy it"
+        },
+        "externalLinks": [
+          {
+            "href": "https://developer.android.com/jetpack/compose",
+            "title": "Jetpack Compose"
+          }
+        ]
+      }
+    },
+    {
+      "id": "reactjs",
+      "name": "React JS",
+      "iconify": "vscode-icons:file-type-reactjs",
+      "tags": [
+        "front-end"
+      ],
+      "percent": 80,
+      "description": {
+        "friendlyName": {
+          "en": "React JS",
+          "fa": "ری اکت"
+        },
+        "shortDescription": {
+          "fa": "یک لایبرری مدرن برای توسعه فرانت اند",
+          "en": "A modern library for front-end development"
+        },
+        "description": {
+          "fa": "یکی از قوی ترین لایبرری های فرانت اند .من ری اکت رو توی 3 روز یاد گرفتم, خیلی شبیه جتپک کامپوز هست. هر دو تا فوق العاده هستن",
+          "en": "One of must powerful front-end framework ,I learned React in 3 days, because it is very similar to Jetpack Compose. Both are wonderful"
+        },
+        "externalLinks": [
+          {
+            "href": "https://react.dev/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "css",
+      "name": "CSS",
+      "iconify": "vscode-icons:file-type-css",
+      "tags": [
+        "front-end"
+      ],
+      "percent": 55,
+      "description": {
+        "friendlyName": {
+          "fa": "سی اس اس",
+          "en": "CSS"
+        },
+        "shortDescription": {
+          "en": "All websites are styled with CSS",
+          "fa": "استایل همه وبسایت ها با CSS صورت میگیره"
+        },
+        "description": {
+          "en": "I rarely use it directly because there are good tools like Tailwindcss. But as a front-end developer, I know this.",
+          "fa": "کم پیش میاد به صورت مستقیم ازش استفاده کنم تا ابزار های خوبی مثل Tailwindcss وجود دارن.ولی خب به عنوان یک توسعه دهنده فرانت خب باید منم اینو بلدم"
+        },
+        "externalLinks": []
+      }
+    },
+    {
+      "id": "git",
+      "name": "Git",
+      "iconify": "logos:git-icon",
+      "tags": [
+        "tools"
+      ],
+      "percent": 55,
+      "description": {
+        "friendlyName": {
+          "fa": "گیت",
+          "en": "Git"
+        },
+        "shortDescription": {
+          "fa": "مدیریت و نگهاداری ورژن ها",
+          "en": "Version control management"
+        },
+        "description": {
+          "fa": "من توی همه پروژه هام از گیت استفاده مکینم. با گیت پروژه ها بهتر مدیریت میشه و احتمال از دست رفتن کد ها هم میاد پایین",
+          "en": "I use Git in all my projects. With Git, projects are better managed and the possibility of losing codes is reduced"
+        },
+        "externalLinks": [
+          {
+            "href": "https://git-scm.com/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "kotlin",
+      "name": "Kotlin",
+      "iconify": "vscode-icons:file-type-kotlin",
+      "tags": [
+        "language",
+        "android"
+      ],
+      "percent": 100,
+      "description": {
+        "friendlyName": {
+          "fa": "کاتلین",
+          "en": "Kotlin"
+        },
+        "shortDescription": {
+          "fa": "یه زبان مدرن جایگزین جاوا",
+          "en": "A Modern language an alternative for java"
+        },
+        "description": {
+          "en": "This is the best language I ever saw! I am using this language for developing android/desktop applications. I also developed some Intellij Idea plugin with that.",
+          "fa": "این بهترین زبانیه که تا حالا دیدم. من باهاش برنامه های اندروید و دسکتاپ نوشتم .چند تا پلاگین هم برای Intellij Idea باهاش طراحی کردم."
+        },
+        "externalLinks": [
+          {
+            "href": "https://kotlinlang.org"
+          }
+        ]
+      }
+    },
+    {
+      "id": "php",
+      "name": "PHP",
+      "iconify": "vscode-icons:file-type-php2",
+      "tags": [
+        "language",
+        "back-end"
+      ],
+      "percent": 75,
+      "description": {
+        "friendlyName": {
+          "fa": "پی اچ پی",
+          "en": "PHP"
+        },
+        "shortDescription": {
+          "fa": "زبان برنامه نویسی مخصوص توسعه وب",
+          "en": "Programming language for web development"
+        },
+        "description": {
+          "fa": "اوایل زیاد با پی اچ پی کار میکردم و اعتقادی به استفاده از فریمورک نداشتم سر همین با پی اچ پی یه زمانی فریمورک هایی واسه وب و فریمورکی برای ربات  تلگرام درست کرده بودم ولی خب این روزا دیگه با پی اچ پی زیاد سروکار ندارم",
+          "en": "In the beginning of my work, I spent most of my time with PHP and that times I didn't believe in using frameworks because of that I made frameworks for the web and a framework for the Telegram bot development, but these days I don't deal with PHP too much."
+        },
+        "externalLinks": [
+          {
+            "href": "https://www.php.net/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "laravel",
+      "name": "Laravel",
+      "iconify": "vscode-icons:file-type-blade",
+      "tags": [
+        "framework",
+        "back-end"
+      ],
+      "percent": 50,
+      "description": {
+        "friendlyName": {
+          "fa": "لاراول",
+          "en": "Laravel"
+        },
+        "shortDescription": {
+          "fa": "یک فریمورک پی اچ پی برای بکند کار ها",
+          "en": "A php framework for web artisans"
+        },
+        "description": {
+          "fa": "من از لاراول بیشتر بخاطر شیوه کد نویسی توسعه دهنده گان اصلیش خوشم میاد باورم نمیشه یه فریمورک به این زیبایی با پی اچ پی طراحی شده. من قبلا خیلی از  کد های اصلی لاراول رو میخوندم ولی خب زیاد این روزا باهاش کار نمیکنم",
+          "en": "I like Laravel more because of the coding style of its creators. I can't believe that such a beautiful framework was made with PHP. I read a lot of the original Laravel source codes, but I don't work with it too much these days"
+        },
+        "externalLinks": [
+          {
+            "href": "https://laravel.com/"
+          }
+        ]
+      }
+    },
+    {
+      "id": "java",
+      "name": "Java",
+      "iconify": "logos:java",
+      "tags": [
+        "language",
+        "android"
+      ],
+      "percent": 90,
+      "description": {
+        "friendlyName": {
+          "fa": "جاوا",
+          "en": "Java"
+        },
+        "shortDescription": {
+          "fa": "یک زبان ثابت شده و مطمعن",
+          "en": "A proven and reliable language"
+        },
+        "description": {
+          "fa": "یه زبان خیلی مطمعن و قابل استفاده در همه جا. قبل از که کاتلین منتشر بشه زبان برنامه نویسی اصلی مورد استفاده من بود.",
+          "en": "A very reliable language that can be used everywhere. Before Kotlin was published, it was my main programming language."
+        },
+        "externalLinks": []
+      }
+    },
+    {
+      "id": "sql",
+      "name": "SQL",
+      "iconify": "vscode-icons:file-type-sql",
+      "tags": [
+        "android",
+        "back-end"
+      ],
+      "percent": 45,
+      "description": {
+        "shortDescription": {
+          "fa": "یک زبان برای تعامل با دیتابیس",
+          "en": "A language for communicating with database"
+        },
+        "externalLinks": [],
+        "friendlyName": {
+          "en": "SQL Language",
+          "fa": "زبان SQL"
+        },
+        "description": {
+          "fa": "یکی از بخش های اصلی در توسعه بکند هست. منم در حد نیازم توش تخصص دارم",
+          "en": "This is an essential part of backend development, I have expertise in it as much as I need"
+        }
+      }
+    }
+  ],
+  "personalInfo": {
+    "location": {
+      "en": "Iran",
+      "fa": "ایران"
+    },
+    "education": {
+      "en": "Computer Engineering",
+      "fa": "مهندسی کامپیوتر"
+    },
+    "image": "https://avatars.githubusercontent.com/u/38394888?v=4",
+    "firstname": {
+      "en": "AmirHossein",
+      "fa": "امیرحسین"
+    },
+    "lastname": {
+      "en": "Abdolmotallebi",
+      "fa": "عبدالمطلبی"
+    },
+    "birthDay": "1998-1-17",
+    "experienceStarts": "2017-1-1",
+    "job": {
+      "en": "Software developer",
+      "fa": "برنامه نویس"
+    },
+    "description": {
+      "en": "I am android and web developer since 5 years ago, I love to learn new things and trying to enjoy what I have.",
+      "fa": "حدود 5 سالیه که برنامه نویس اندروید و وب هستم به یادگیری چیزای جدید علاقه دارم و سعی میکنم از چیزایی که دارم لذت ببرم."
+    }
+  },
+  "projectSamples": [
+    {
+      "id": "ab-download-manager",
+      "icon": "https://static.amirab.ir/logo/ab-download-manager.svg",
+      "name": {
+        "fa": "AB Download Manager",
+        "en": "AB Download Manager"
+      },
+      "type": "application",
+      "description": {
+        "fa": "یک نرم افزار مدیریت دانلود که سرعت دانلود را بهبود می‌بخشد، امکان زمان‌بندی و صف‌بندی دانلودها را فراهم می‌کند، از قابلیت توقف و از سرگیری دانلودها پشتیبانی می‌کند و دارای یک رابط کاربری مدرن و کاربرپسند است. این اپلیکیشن همچنین دارای افزونه مرورگر هست تا لینک‌های دانلود را به‌طور مستقیم از مرورگر دانلود کند",
+        "en": "this is a download manager application that improves download speeds, allows users to schedule and queue downloads, supports pausing and resuming downloads, and features a modern, intuitive interface. The app also has browser integration to capture download links directly from the browser."
+      },
+      "usedSkills": [
+        "kotlin",
+        "compose",
+        "git"
+      ],
+      "shortDescription": {
+        "fa": "نرم افزار میدیریت دانلود",
+        "en": "Download Manager App"
+      },
+      "mainLink": "https://abdownloadmanager.com",
+      "sourceCode": "https://github.com/amir1376/ab-download-manager",
+      "screenshots": [
+        "https://static.amirab.ir/shots/abdm-banner.png",
+        "https://static.amirab.ir/shots/abdm-app-dark.png",
+        "https://static.amirab.ir/shots/abdm-app-white.png"
+      ]
+    },
+    {
+      "id": "giftstorm",
+      "icon": "https://static.amirab.ir/logo/giftstorm.png",
+      "name": {
+        "fa": "گیفت استورم",
+        "en": "Giftstorm"
+      },
+      "type": "website",
+      "description": {
+        "fa": "فروشگاه گیفت استورم یک پلتفرم برای فروش انواع گیفت کارت های دیجیتال هست که من بخش دیزاین و فرانت سایت رو بر عهده داشتم",
+        "en": "Giftstorm store is a platform for selling all kinds of digital gift cards, which I was in charge of the design and front-end development."
+      },
+      "usedSkills": [
+        "reactjs",
+        "typescript",
+        "tailwindcss",
+        "css",
+        "html",
+        "laravel",
+        "php"
+      ],
+      "shortDescription": {
+        "fa": "فروشگاه فروش گیفت کارت های دیجیتال",
+        "en": "Digital gift card store"
+      },
+      "mainLink": "https://giftstorm.ir",
+      "sourceCode": null,
+      "screenshots": []
+    },
+    {
+      "id": "debugboard",
+      "icon": "https://static.amirab.ir/logo/debugboard.png",
+      "name": {
+        "fa": "Debug Board",
+        "en": "Debug Board"
+      },
+      "type": "library",
+      "description": {
+        "fa": "این کتابخانه شامل ابزارهای اشکال زدایی برای توسعه دهندگان kotlin است، به عنوان مثال می توانید متغیرهای خود را در زمان اجرا مشاهده کنید و یا بر درخواست های شبکه خود را نظارت کنید و موارد دیگر.\n برای اطلاعات بیشتر به صفحه github مراجعه  کنید.",
+        "en": "This library contains debug utilities for kotlin developers, for example you can watch your variables during runtime or even monitor your network requests and more \n. Check github page for more details."
+      },
+      "usedSkills": [
+        "kotlin",
+        "typescript",
+        "html",
+        "reactjs",
+        "tailwindcss",
+        "android"
+      ],
+      "shortDescription": {
+        "fa": "ابزارهای رفع اشکال در زمان اجرا",
+        "en": "Runtime debug utilities"
+      },
+      "mainLink": "https://github.com/amir1376/debugboard",
+      "screenshots": [
+        "https://static.amirab.ir/shots/debugboard_watcher_panel.png",
+        "https://static.amirab.ir/shots/debugboard_network_panel.png"
+      ],
+      "sourceCode": "https://github.com/amir1376/debugboard"
+    },
+    {
+      "id": "debugboard-idea-plugin",
+      "icon": "https://static.amirab.ir/logo/debugboard-plugin.png",
+      "name": {
+        "fa": "Debug Board Idea",
+        "en": "Debug Board Idea"
+      },
+      "type": "plugin",
+      "description": {
+        "fa": "این یک پلاگین برای Intellij Idea و Android Studio هست , که به کمک ان میتوان از امکانات لایبرری Debug Board در داخل خود IDE بهره مند شد . شما میتوانید آن را از Jetbrains Market Place دانلود کنید",
+        "en": "This is a plugin for Intellij Idea and Android Studio, with the help of it, you can benefit from the Debug Board library functionalities inside the IDE itself. You can download it from Jetbrains Market Place"
+      },
+      "usedSkills": [
+        "kotlin"
+      ],
+      "shortDescription": {
+        "fa": "پنل DebugBoard برای بستر Intellij Idea",
+        "en": "DebugBoard panel for Intellij Idea based IDE's"
+      },
+      "mainLink": "https://plugins.jetbrains.com/plugin/21331-debug-board",
+      "screenshots": [
+        "https://static.amirab.ir/shots/debugboard_plugin_network_watcher_1.png",
+        "https://static.amirab.ir/shots/debugboard_plugin_network_watcher_2.png",
+        "https://static.amirab.ir/shots/debugboard_plugin_variable_watcher_1.png"
+      ],
+      "sourceCode": "https://github.com/amir1376/debugboard/tree/master/ui/idea-plugin"
+    },
+    {
+      "id": "kotlin-validator",
+      "icon": "https://static.amirab.ir/logo/kotlin-validator.png",
+      "name": {
+        "fa": "Kotlin Validator",
+        "en": "Kotlin Validator"
+      },
+      "type": "library",
+      "description": {
+        "fa": "این پروژه یک لایبرری برای ولیدیت کردن مقادیر مختلفی که کاربر وارد سیستم میکند میباشد.\n برای مثال میتوانید ایمیل ها پسورد ها و خیلی چیز های دیگه را به راحتی ولیدیت کنید. همچنین به کمک این لایبرری میتوانید قوانین اختصاصی خودتان را هم تولید کنید \n برای اطلاع از شیوه نصب و راه اندازی به صفححه گیتهاب پروژه مراجعه کنید",
+        "en": "This project is a library for validating various values which the user enters into the system. For example, you can validate emails, passwords and much more stuffs!. You can also create your own rules with the help of this library\nFor installation and setup refer to the GitHub page of the project."
+      },
+      "usedSkills": [
+        "kotlin",
+        "android"
+      ],
+      "shortDescription": {
+        "fa": "فرم ها و ورودی های خود را با آسانی اعتبارسنجی کنید",
+        "en": "Validate your forms and inputs with easy"
+      },
+      "mainLink": "https://github.com/amir1376/kotlin-validator",
+      "screenshots": [
+      ],
+      "sourceCode": "https://github.com/amir1376/kotlin-validator"
+    }
+  ]
 }
