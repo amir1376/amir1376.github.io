@@ -509,7 +509,7 @@
   "projectSamples": [
     {
       "id": "ab-download-manager",
-      "icon": "https://static.amirab.ir/logo/ab-download-manager.svg",
+      "icon": "https://raw.githubusercontent.com/amir1376/amir1376.github.io/master/images/icons/abdm.png",
       "name": {
         "fa": "AB Download Manager",
         "en": "AB Download Manager"
@@ -531,14 +531,16 @@
       "mainLink": "https://abdownloadmanager.com",
       "sourceCode": "https://github.com/amir1376/ab-download-manager",
       "screenshots": [
-        "https://static.amirab.ir/shots/abdm-banner.png",
-        "https://static.amirab.ir/shots/abdm-app-dark.png",
-        "https://static.amirab.ir/shots/abdm-app-white.png"
+        "https://github.com/amir1376/ab-download-manager/raw/master/assets/banners/app_banner.png",
+        "https://github.com/amir1376/ab-download-manager/raw/master/assets/screenshots/app-home_dark.png",
+        "https://github.com/amir1376/ab-download-manager/raw/master/assets/screenshots/app-download_dark.png",
+        "https://github.com/amir1376/ab-download-manager/raw/master/assets/screenshots/app-home_light.png",
+        "https://github.com/amir1376/ab-download-manager/raw/master/assets/screenshots/app-download_light.png"
       ]
     },
     {
       "id": "giftstorm",
-      "icon": "https://static.amirab.ir/logo/giftstorm.png",
+      "icon": "https://raw.githubusercontent.com/amir1376/amir1376.github.io/master/images/icons/giftstorm.png",
       "name": {
         "fa": "گیفت استورم",
         "en": "Giftstorm"
@@ -567,7 +569,7 @@
     },
     {
       "id": "debugboard",
-      "icon": "https://static.amirab.ir/logo/debugboard.png",
+      "icon": "https://raw.githubusercontent.com/amir1376/amir1376.github.io/master/images/icons/debugboard.png",
       "name": {
         "fa": "Debug Board",
         "en": "Debug Board"
@@ -591,14 +593,14 @@
       },
       "mainLink": "https://github.com/amir1376/debugboard",
       "screenshots": [
-        "https://static.amirab.ir/shots/debugboard_watcher_panel.png",
-        "https://static.amirab.ir/shots/debugboard_network_panel.png"
+        "https://github.com/amir1376/debugboard/raw/master/static/watcher_panel.png",
+        "https://github.com/amir1376/debugboard/raw/master/static/network_panel.png"
       ],
       "sourceCode": "https://github.com/amir1376/debugboard"
     },
     {
       "id": "debugboard-idea-plugin",
-      "icon": "https://static.amirab.ir/logo/debugboard-plugin.png",
+      "icon": "https://raw.githubusercontent.com/amir1376/amir1376.github.io/master/images/icons/debugboard-plugin.png",
       "name": {
         "fa": "Debug Board Idea",
         "en": "Debug Board Idea"
@@ -617,15 +619,15 @@
       },
       "mainLink": "https://plugins.jetbrains.com/plugin/21331-debug-board",
       "screenshots": [
-        "https://static.amirab.ir/shots/debugboard_plugin_network_watcher_1.png",
-        "https://static.amirab.ir/shots/debugboard_plugin_network_watcher_2.png",
-        "https://static.amirab.ir/shots/debugboard_plugin_variable_watcher_1.png"
+        "https://plugins.jetbrains.com/files/21331/screenshot_0882f9a8-5fee-4720-abc3-5a97b4490451",
+        "https://plugins.jetbrains.com/files/21331/screenshot_f329b744-3142-4f15-9974-8cdcc2a85869",
+        "https://plugins.jetbrains.com/files/21331/screenshot_a8e2e813-b09c-48c1-b48d-0275a3e8d72b"
       ],
       "sourceCode": "https://github.com/amir1376/debugboard/tree/master/ui/idea-plugin"
     },
     {
       "id": "kotlin-validator",
-      "icon": "https://static.amirab.ir/logo/kotlin-validator.png",
+      "icon": "https://raw.githubusercontent.com/amir1376/amir1376.github.io/master/images/icons/kotlin-validator.png",
       "name": {
         "fa": "Kotlin Validator",
         "en": "Kotlin Validator"
